@@ -1,3 +1,7 @@
+### 演示地址
+
+[查看演示](https://hangjob.github.io/flexible-mobile/dist/index.html#/index)
+
 ### 移动端适配
 
 下载，安装依赖
